@@ -6,8 +6,9 @@ The wordlist can be generated using crunch v3.6 on Linux.
     <img src="https://raw.githubusercontent.com/OrangeMintz/PLDTHOMEFIBR-Generate-Default-Password-Guide/main/img/pic1.png" height="200" alt="image" />
 </div>
 <br>
-The purpose of this tutorial for wordlist is to crack the encryption key of a wireless network by using the captured WPA Handshake of
-a network and testing the possible keys listed in the wordlist. If the correct key is in the wordlist, aircrack-ng will find it and display it.
+
+In this guide, you'll learn how to use crunch to create a list of possible passwords for cracking the WPA/WPA2 security of the PLDTHOMEFIBR network. 
+With this list and data collected from the network, you can use aircrack-ng and airodump-ng to test different passwords and find the correct one to unlock the network.
 
 ## Download Crunch
 
@@ -41,11 +42,6 @@ The following OS are likely to be able to run crunch:
 
 - Windows OS
 - macOS
-
-## Purpose
-
-In this guide you'll learn how to use crunch to create a list of possible passwords for cracking PLDTHOMEFIBR with WPA/WPA2 network security. With your
-generated wordlist, you can use aircrack-ng and airodump-ng to try different passwords against the data you’ve collected to unlock the network.
 
 ## Disclaimer
 
