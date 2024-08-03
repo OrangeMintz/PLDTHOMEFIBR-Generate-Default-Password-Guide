@@ -3,7 +3,7 @@
 The wordlist can be generated using crunch v3.6 on Linux.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/OrangeMintz/PLDTHOMEFIBR-Generate-Default-Password-Guide/main/img/pic1.png" height="200" alt="image" />
+    <img src="https://raw.githubusercontent.com/OrangeMintz/PLDTHOMEFIBR-Generate-Default-Password-Guide/main/img/pic1.png" height="300" alt="image" />
 </div>
 <br>
 
@@ -21,6 +21,10 @@ apt-get install crunch
 ```bash
 crunch 13 13 abcdefghijklmnopqrstuvwxyz0123456789 -t PLDTWIFI@@@@@ -o PLDTdfpd2024.txt
 ```
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/OrangeMintz/PLDTHOMEFIBR-Generate-Default-Password-Guide/main/img/pic2.png" height="300" alt="image" />
+</div>
 
 ## Software Requirements:
 
