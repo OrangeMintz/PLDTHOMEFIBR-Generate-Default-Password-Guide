@@ -16,7 +16,7 @@ With this list and data collected from the network, you can use aircrack-ng and 
 apt-get install crunch
 ```
 
-## How to generate similar wordlist?
+## How to generate wordlist?
 
 ```bash
 crunch 13 13 abcdefghijklmnopqrstuvwxyz0123456789 -t PLDTWIFI@@@@@ -o PLDTdfpd2024.txt
