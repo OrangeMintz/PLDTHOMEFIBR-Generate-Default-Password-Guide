@@ -5,7 +5,7 @@ The wordlist can be generated using crunch v3.6 on Linux.
 <div align="center">
     <img src="https://raw.githubusercontent.com/OrangeMintz/PLDTHOMEFIBR-Generate-Default-Password-Guide/main/img/pic1.png" height="200" alt="image" />
 </div>
-
+<br>
 The purpose of this tutorial for wordlist is to crack the encryption key of a wireless network by using the captured WPA Handshake of
 a network and testing the possible keys listed in the wordlist. If the correct key is in the wordlist, aircrack-ng will find it and display it.
 
