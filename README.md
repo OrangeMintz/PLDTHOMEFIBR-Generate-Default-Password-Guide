@@ -42,7 +42,11 @@ The following OS are likely to be able to run crunch:
 - Windows OS
 - macOS
 
-## Usage
+## Purpose
 
-In this guide you'll learn how to use crunch to create a list of possible passwords for cracking WPA/WPA2 network security. With your
+In this guide you'll learn how to use crunch to create a list of possible passwords for cracking PLDTHOMEFIBR with WPA/WPA2 network security. With your
 generated wordlist, you can use aircrack-ng and airodump-ng to try different passwords against the data you’ve collected to unlock the network.
+
+## Disclaimer
+
+This guide is intended solely for educational purposes and to promote ethical hacking practices. It is crucial to use the information responsibly and only on networks you own or have explicit permission to test. Unauthorized access to networks is illegal and unethical. Always ensure you have proper authorization before conducting any security assessments.
