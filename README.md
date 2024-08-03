@@ -1,4 +1,4 @@
-# PLDTHOMEFIBR Default Password 2024 🔑 <img src="https://img.shields.io/badge/by-OrangeMintz-016eea.svg?logo=github&labelColor=181717&">
+# Generate PLDTHOMEFIBR Default Password 🔑 <img src="https://img.shields.io/badge/by-OrangeMintz-016eea.svg?logo=github&labelColor=181717&">
 
 The wordlist can be generated using crunch v3.6 on Linux.
 
