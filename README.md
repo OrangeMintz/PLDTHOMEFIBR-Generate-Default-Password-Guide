@@ -30,16 +30,17 @@ crunch 13 13 abcdefghijklmnopqrstuvwxyz0123456789 -t PLDTWIFI@@@@@ -o PLDTdfpd20
 
 The following OS can run crunch:
 
-- Arch Linux
-- Manjaro Linux
-- BlackArch Linux
+- Kali
+- Arch
+- Manjaro
+- BlackArch
 - Deepin
 - Elementary
 - Fedora
 - Linux Mint
 - Parrot Security
 - Ubuntu
-- Void Linux
+- Void
 - etc..
 
 The following OS are likely to be able to run crunch:
