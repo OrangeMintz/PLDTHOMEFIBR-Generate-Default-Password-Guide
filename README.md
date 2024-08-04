@@ -8,7 +8,7 @@ The wordlist can be generated using crunch v3.6 on Linux.
 <br>
 
 In this guide, you'll learn how to use crunch to create a list of possible passwords for cracking the WPA/WPA2 security of the PLDTHOMEFIBR network. 
-With this list and data collected from the network, you can use aircrack-ng and airodump-ng to test different passwords and find the correct one to unlock the network.
+With this list and data collected from the network, you can use aircrack-ng to test different passwords and find the correct one to unlock the network.
 
 ## Download Crunch
 
