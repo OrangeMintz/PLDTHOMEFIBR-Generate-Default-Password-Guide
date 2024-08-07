@@ -1,6 +1,6 @@
 # Generate PLDTHOMEFIBR Default Password Wordlist 🔑 <img src="https://img.shields.io/badge/by-OrangeMintz-016eea.svg?logo=github&labelColor=181717&">
 
-The wordlist can be generated using crunch v3.6 on Linux.
+The wordlist can be generated using <a href="https://github.com/jim3ma/crunch">crunch</a>  v3.6 on Linux. 
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/OrangeMintz/PLDTHOMEFIBR-Generate-Default-Password-Guide/main/img/pic1.png" height="300" alt="image" />
